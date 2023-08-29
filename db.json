@@ -1,0 +1,115 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "name": "Absinthe",
+      "recipe": "Illegal",
+      "serve": "In Secret",
+      "id": "P3ZiH1L"
+    },
+    {
+      "name": "Diet Coke",
+      "recipe": "Buy It",
+      "serve": "Throw It In The Trash",
+      "id": "bYcBP7l"
+    },
+    {
+      "name": "Lemonade",
+      "recipe": "SQUEEZE",
+      "serve": "Sip",
+      "id": "UkzphTV"
+    },
+    {
+      "name": "Coffee",
+      "recipe": "Grind",
+      "serve": "Serve",
+      "id": "D5GQIUf"
+    },
+    {
+      "name": "Tea",
+      "recipe": "Boil",
+      "serve": "Throw Away",
+      "id": "eHRMiyh"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "name": "Doritos",
+      "recipe": "Open a Bag",
+      "serve": "Eat From the Bag",
+      "id": "akMDNt-"
+    },
+    {
+      "name": "Pringles",
+      "recipe": "test",
+      "serve": "test",
+      "id": "P1EH5Tb"
+    },
+    {
+      "name": "S'mores",
+      "recipe": "Yummy",
+      "serve": "Yummy",
+      "id": "B9aUu_U"
+    },
+    {
+      "name": "Oatmeal",
+      "recipe": "Boil",
+      "serve": "Eat",
+      "id": "rEg0y0A"
+    },
+    {
+      "name": "Croissant",
+      "recipe": "Bake",
+      "serve": "Order 2",
+      "id": "4UQl9BN"
+    }
+  ]
+}
